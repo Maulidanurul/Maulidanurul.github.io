@@ -1,0 +1,158 @@
+	
+.font1 {
+    font-family: "LuzSans-Book", monotype;
+}
+.font2 {
+	font-family: "Mandela Script Personal Use", monotype;
+}
+.bg {
+     width: 100%;
+     height: 100%;
+     position: fixed;
+     z-index: 1;
+     float: left;
+     left: 0;
+}
+.content1 {
+   	width: 80%;
+    height: auto;
+    margin: 0 auto;
+    position: relative;
+    z-index: 5;
+   	padding: 30px;
+    text-align: left;
+}
+.top {
+	align-content: center;
+	text-align: center;
+	padding-top: initial;
+	writing-mode: vertical-rl;
+ 	text-orientation: upright ;
+}
+.left{
+	float: right;
+}
+
+.font3 {
+	font-family: "Tw Cen MT";
+	font-size: 20px
+}
+.font4 {
+	font-family: "Candara";
+	font-size: 18px;
+}
+.font5 {
+	font-family: "Trebuchet MS";
+}
+.alinea {
+	text-indent: 120px;
+}
+.tabel1 {
+	background-color: #660033;
+	color: white
+}
+.tabel2 {
+	background-color: #ffcce6;
+	color: #33001a
+}
+.paragraf {
+	background-color: #f7e6ff; 
+}
+.paragraf1 {
+	background-color: #ebebfa; 
+}
+.border1 {
+	border-radius: 15px;
+}
+.border2 {
+	border-radius: 15px 30px;
+}
+.recommended .recommendedkiri img {
+	float: right;
+	box-shadow: 5px 5px 5px
+}
+.column {
+    float: left;
+    width: 50%;
+    padding: 10px;
+    height: 300px;
+}
+#borderimg { 
+    border: 30px solid transparent;
+    border-image:url(img/border_1.png) 30% round;
+    text-align: center;
+}
+#borderimg2 { 
+    border: 30px solid transparent;
+    border-image:url(img/border_2.png) 30% round;
+    text-align: center;
+}
+.sidebar {
+	float: left;
+	width: 60%;
+	height: 100px;
+	text-align: left;
+}
+.sidebarright {
+	float: right;
+	width: 38%;
+	height: 100px;
+	text-align: right;
+}
+.colorbar {
+	background-color: #5c5c8a;
+	border-radius: 15px;
+	color: white;
+	text-align: center;
+}
+.colorbar2 {
+	background-color: #d1d1e0;
+	border-radius: 15px;
+	color: #5c5c8a;
+	text-align: center;
+}
+.content2 {
+	width: 60%;
+	height: 100px;
+	text-align: left;
+}
+.sidebar2 {
+	float: left;
+	width: 100%;
+	height: 100%;
+}
+.row {
+	content: "";
+    display: table;
+    clear: both;
+}
+.pojokkiri {
+    float: left;
+    width: 33.33%;
+    padding: 10px;
+    height: 300px;
+}
+.pojokkanan {
+    float: right;
+    width: 48%;
+    padding: 10px;
+    height: 300px;
+}
+.footer{
+margin: 0.03em;
+clear: both;
+height: 30px;
+text-align: center;
+padding-top: 1000px
+}
+
+.hr {
+	 width:50px;
+	 border:5px;
+}
+.section {
+	width: 30px;
+	height: 20px;
+}
+
+  
